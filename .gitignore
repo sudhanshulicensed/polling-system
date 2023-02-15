@@ -14,6 +14,7 @@ dist-ssr
 coverage
 node_modules
 *.local
+.vscode
 
 /cypress/videos/
 /cypress/screenshots/
